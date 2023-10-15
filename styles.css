@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+* {
+  width: 540px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+}
+
+.btn {
+  position: fixed;
+  bottom: 0;
+  background-color: #eee;
+  padding-top: 20px;
+  border: 0px;
+}
